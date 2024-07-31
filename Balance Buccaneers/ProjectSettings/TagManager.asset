@@ -13,8 +13,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - P1 Cam
+  - P2 Cam
   - 
   - 
   - 
@@ -40,4 +40,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Enviro Background
+    uniqueID: 3936088349
+    locked: 0
+  - name: Enviro Foreground
+    uniqueID: 2360585481
+    locked: 0
+  - name: Player
+    uniqueID: 3455725497
+    locked: 0
+  - name: UI
+    uniqueID: 4068338715
     locked: 0
